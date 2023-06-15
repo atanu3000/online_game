@@ -28,7 +28,8 @@ header {
 .content {
     position: absolute;
     background: #eee;
-    height: calc(100vh - 100px);
+    /* height: calc(100vh - 100px); */
+    height: 85%;
     bottom: 10px;
     width: 95%;
     display: flex;
